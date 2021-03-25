@@ -1,6 +1,6 @@
 ﻿mun_id;drs_desc;mun_desc_sem_acentuacao;mun_desc;;wiki;coordenadas;url_bandeira
-3500105;DRS 09 - Marília;Adamantina;Adamantina;3500105_Adamantina;https://pt.wikipedia.org/wiki/Adamantina;-21.685, -51.072778;https://github.com/cristiano-silva-0182/bandeiras/blob/main/Adamantina.jpg?raw=true
-3500204;DRS 15 - São José do Rio Preto;Adolfo;Adolfo;3500204_Adolfo;https://pt.wikipedia.org/wiki/Adolfo_(S%C3%A3o_Paulo);-21.235, -49.643889;x
+3500105;DRS 09 - Marília;Adamantina;Adamantina;3500105_Adamantina;https://pt.wikipedia.org/wiki/Adamantina;-21.685, -51.072778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500105_Adamantina.jpg
+3500204;DRS 15 - São José do Rio Preto;Adolfo;Adolfo;3500204_Adolfo;https://pt.wikipedia.org/wiki/Adolfo_(S%C3%A3o_Paulo);-21.235, -49.643889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500204_Adolfo.jpg
 3500303;DRS 14 - São João da Boa Vista;Aguai;Aguaí;3500303_Aguaí;https://pt.wikipedia.org/wiki/Agua%C3%AD;-22.058889, -46.978889;x
 3500402;DRS 14 - São João da Boa Vista;Aguas da Prata;Águas da Prata;3500402_Águas da Prata;https://pt.wikipedia.org/wiki/%C3%81guas_da_Prata;-21.936944, -46.716944;x
 3500501;DRS 07 - Campinas;Aguas de Lindoia;Águas de Lindóia;3500501_Águas de Lindóia;https://pt.wikipedia.org/wiki/%C3%81guas_de_Lind%C3%B3ia;-22.475833, -46.632778;x
@@ -25,8 +25,8 @@
 3502101;DRS 02 - Araçatuba;Andradina;Andradina;3502101_Andradina;https://pt.wikipedia.org/wiki/Andradina;-20.895833, -51.378889;x
 3502200;DRS 16 - Sorocaba;Angatuba;Angatuba;3502200_Angatuba;https://pt.wikipedia.org/wiki/Angatuba;-23.49, -48.412778;x
 3502309;DRS 06 - Bauru;Anhembi;Anhembi;3502309_Anhembi;https://pt.wikipedia.org/wiki/Anhembi;-22.788889, -48.126944;x
-3502408;DRS 11 - Presidente Prudente;Anhumas;Anhumas;3502408_Anhumas;;;
-3502507;DRS 17 - Taubaté;Aparecida;Aparecida;3502507_Aparecida;;;
+3502408;DRS 11 - Presidente Prudente;Anhumas;Anhumas;3502408_Anhumas;https://pt.wikipedia.org/wiki/Anhumas;-22.295, -51.386944;x
+3502507;DRS 17 - Taubaté;Aparecida;Aparecida;3502507_Aparecida;https://pt.wikipedia.org/wiki/Aparecida_(S%C3%A3o_Paulo);-22.846944, -45.23;x
 3502606;DRS 15 - São José do Rio Preto;Aparecida d'Oeste;Aparecida d'Oeste;3502606_Aparecida d'Oeste;;;
 3502705;DRS 16 - Sorocaba;Apiai;Apiaí;3502705_Apiaí;;;
 3502754;DRS 16 - Sorocaba;Aracariguama;Araçariguama;3502754_Araçariguama;;;

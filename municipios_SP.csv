@@ -1,56 +1,56 @@
-﻿mun_id;drs_desc;mun_desc_sem_acentuacao;mun_desc;;wiki;coordenadas;url_bandeira
+﻿mun_id;drs_desc;mun_desc_sem_acentuacao;mun_desc;nome_fig;wiki;coordenadas;url_bandeira
 3500105;DRS 09 - Marília;Adamantina;Adamantina;3500105_Adamantina;https://pt.wikipedia.org/wiki/Adamantina;-21.685, -51.072778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500105_Adamantina.jpg
 3500204;DRS 15 - São José do Rio Preto;Adolfo;Adolfo;3500204_Adolfo;https://pt.wikipedia.org/wiki/Adolfo_(S%C3%A3o_Paulo);-21.235, -49.643889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500204_Adolfo.jpg
-3500303;DRS 14 - São João da Boa Vista;Aguai;Aguaí;3500303_Aguaí;https://pt.wikipedia.org/wiki/Agua%C3%AD;-22.058889, -46.978889;x
-3500402;DRS 14 - São João da Boa Vista;Aguas da Prata;Águas da Prata;3500402_Águas da Prata;https://pt.wikipedia.org/wiki/%C3%81guas_da_Prata;-21.936944, -46.716944;x
-3500501;DRS 07 - Campinas;Aguas de Lindoia;Águas de Lindóia;3500501_Águas de Lindóia;https://pt.wikipedia.org/wiki/%C3%81guas_de_Lind%C3%B3ia;-22.475833, -46.632778;x
-3500550;DRS 06 - Bauru;Aguas de Santa Barbara;Águas de Santa Bárbara;3500550_Águas de Santa Bárbara;https://pt.wikipedia.org/wiki/%C3%81guas_de_Santa_B%C3%A1rbara;-22.880833, -49.238889;x
-3500600;DRS 10 - Piracicaba;Aguas de Sao Pedro;Águas de São Pedro;3500600_Águas de São Pedro;https://pt.wikipedia.org/wiki/%C3%81guas_de_S%C3%A3o_Pedro;-22.598889, -47.875833;x
-3500709;DRS 06 - Bauru;Agudos;Agudos;3500709_Agudos;https://pt.wikipedia.org/wiki/Agudos;-22.468889, -48.987778;x
-3500758;DRS 16 - Sorocaba;Alambari;Alambari;3500758_Alambari;https://pt.wikipedia.org/wiki/Alambari;-23.550833, -47.898889;x
-3500808;DRS 11 - Presidente Prudente;Alfredo Marcondes;Alfredo Marcondes;3500808_Alfredo Marcondes;https://pt.wikipedia.org/wiki/Alfredo_Marcondes;-21.955, -51.412778;x
-3500907;DRS 05 - Barretos;Altair;Altair;3500907_Altair;https://pt.wikipedia.org/wiki/Altair_(S%C3%A3o_Paulo);-20.523889, -49.058889;x
-3501004;DRS 13 - Ribeirão Preto;Altinopolis;Altinópolis;3501004_Altinópolis;https://pt.wikipedia.org/wiki/Altin%C3%B3polis;-21.025833, -47.373889;x
-3501103;DRS 02 - Araçatuba;Alto Alegre;Alto Alegre;3501103_Alto Alegre;https://pt.wikipedia.org/wiki/Alto_Alegre_(S%C3%A3o_Paulo);-21.580833, -50.163889;x
-3501152;DRS 16 - Sorocaba;Aluminio;Alumínio;3501152_Alumínio;https://pt.wikipedia.org/wiki/Alum%C3%ADnio_(S%C3%A3o_Paulo);-23.535, -47.261944;x
-3501202;DRS 15 - São José do Rio Preto;Alvares Florence;Álvares Florence;3501202_Álvares Florence;https://pt.wikipedia.org/wiki/%C3%81lvares_Florence;-20.320833, -49.910833;x
-3501301;DRS 11 - Presidente Prudente;Alvares Machado;Álvares Machado;3501301_Álvares Machado;https://pt.wikipedia.org/wiki/%C3%81lvares_Machado;-22.078889, -51.471944;x
-3501400;DRS 09 - Marília;Alvaro de Carvalho;Álvaro de Carvalho;3501400_Álvaro de Carvalho;https://pt.wikipedia.org/wiki/%C3%81lvaro_de_Carvalho;-22.088889, -49.718889;x
-3501509;DRS 09 - Marília;Alvinlandia;Alvinlândia;3501509_Alvinlândia;https://pt.wikipedia.org/wiki/Alvinl%C3%A2ndia;-22.443889, -49.762778;x
-3501608;DRS 07 - Campinas;Americana;Americana;3501608_Americana;https://pt.wikipedia.org/wiki/Americana;-22.738889, -47.330833;x
-3501707;DRS 03 - Araraquara;Americo Brasiliense;Américo Brasiliense;3501707_Américo Brasiliense;https://pt.wikipedia.org/wiki/Am%C3%A9rico_Brasiliense;-21.723889, -48.101944;x
-3501806;DRS 15 - São José do Rio Preto;Americo de Campos;Américo de Campos;3501806_Américo de Campos;https://pt.wikipedia.org/wiki/Am%C3%A9rico_de_Campos;-20.298889, -49.731944;x
-3501905;DRS 07 - Campinas;Amparo;Amparo;3501905_Amparo;https://pt.wikipedia.org/wiki/Amparo_(S%C3%A3o_Paulo);-22.700833, -46.763889;x
-3502002;DRS 10 - Piracicaba;Analandia;Analândia;3502002_Analândia;https://pt.wikipedia.org/wiki/Anal%C3%A2ndia;-22.125833, -47.662778;x
-3502101;DRS 02 - Araçatuba;Andradina;Andradina;3502101_Andradina;https://pt.wikipedia.org/wiki/Andradina;-20.895833, -51.378889;x
-3502200;DRS 16 - Sorocaba;Angatuba;Angatuba;3502200_Angatuba;https://pt.wikipedia.org/wiki/Angatuba;-23.49, -48.412778;x
-3502309;DRS 06 - Bauru;Anhembi;Anhembi;3502309_Anhembi;https://pt.wikipedia.org/wiki/Anhembi;-22.788889, -48.126944;x
-3502408;DRS 11 - Presidente Prudente;Anhumas;Anhumas;3502408_Anhumas;https://pt.wikipedia.org/wiki/Anhumas;-22.295, -51.386944;x
-3502507;DRS 17 - Taubaté;Aparecida;Aparecida;3502507_Aparecida;https://pt.wikipedia.org/wiki/Aparecida_(S%C3%A3o_Paulo);-22.846944, -45.23;x
-3502606;DRS 15 - São José do Rio Preto;Aparecida d'Oeste;Aparecida d'Oeste;3502606_Aparecida d'Oeste;https://pt.wikipedia.org/wiki/Aparecida_d%27Oeste;-20.448889, -50.88;x
-3502705;DRS 16 - Sorocaba;Apiai;Apiaí;3502705_Apiaí;https://pt.wikipedia.org/wiki/Apia%C3%AD;-24.508889, -48.842778;x
-3502754;DRS 16 - Sorocaba;Aracariguama;Araçariguama;3502754_Araçariguama;https://pt.wikipedia.org/wiki/Ara%C3%A7ariguama;-23.438889, -47.060833;x
-3502804;DRS 02 - Araçatuba;Aracatuba;Araçatuba;3502804_Araçatuba;https://pt.wikipedia.org/wiki/Ara%C3%A7atuba;-21.208889, -50.432778;x
-3502903;DRS 16 - Sorocaba;Aracoiaba da Serra;Araçoiaba da Serra;3502903_Araçoiaba da Serra;https://pt.wikipedia.org/wiki/Ara%C3%A7oiaba_da_Serra;-23.505, -47.613889;x
-3503000;DRS 08 - Franca;Aramina;Aramina;3503000_Aramina;https://pt.wikipedia.org/wiki/Aramina;-20.09, -47.785833;x
-3503109;DRS 06 - Bauru;Arandu;Arandu;3503109_Arandu;https://pt.wikipedia.org/wiki/Arandu;-23.133889, -49.053889;x
-3503158;DRS 17 - Taubaté;Arapei;Arapeí;3503158_Arapeí;https://pt.wikipedia.org/wiki/Arape%C3%AD;-22.673889, -44.447778;x
-3503208;DRS 03 - Araraquara;Araraquara;Araraquara;3503208_Araraquara;https://pt.wikipedia.org/wiki/Araraquara;-21.793889, -48.175833;x
-3503307;DRS 10 - Piracicaba;Araras;Araras;3503307_Araras;https://pt.wikipedia.org/wiki/Araras_(S%C3%A3o_Paulo);-22.356944, -47.383889;x
-3503356;DRS 09 - Marília;Arco Iris;Arco-Íris;3503356_Arco-Íris;https://pt.wikipedia.org/wiki/Arco-%C3%8Dris_(S%C3%A3o_Paulo);-21.772778, -50.465;x
-3503406;DRS 06 - Bauru;Arealva;Arealva;3503406_Arealva;https://pt.wikipedia.org/wiki/Arealva;-22.028889, -48.910833;x
-3503505;DRS 17 - Taubaté;Areias;Areias;3503505_Areias;https://pt.wikipedia.org/wiki/Areias_(S%C3%A3o_Paulo);-22.58, -44.696944;x
-3503604;DRS 06 - Bauru;Areiopolis;Areiópolis;3503604_Areiópolis;https://pt.wikipedia.org/wiki/Arei%C3%B3polis;-22.667778, -48.665;x
-3503703;DRS 15 - São José do Rio Preto;Ariranha;Ariranha;3503703_Ariranha;https://pt.wikipedia.org/wiki/Ariranha_(S%C3%A3o_Paulo);-21.187778, -48.786944;
-3503802;DRS 07 - Campinas;Artur Nogueira;Artur Nogueira;3503802_Artur Nogueira;https://pt.wikipedia.org/wiki/Artur_Nogueira;-22.572778, -47.172778;
-3503901;DRS 01 - Grande São Paulo;Aruja;Arujá;3503901_Arujá;https://pt.wikipedia.org/wiki/Aruj%C3%A1;-23.395833, -46.320833;
-3503950;DRS 15 - São José do Rio Preto;Aspasia;Aspásia;3503950_Aspásia;https://pt.wikipedia.org/wiki/Asp%C3%A1sia_(S%C3%A3o_Paulo);-20.158889, -50.732778;
-3504008;DRS 09 - Marília;Assis;Assis;3504008_Assis;https://pt.wikipedia.org/wiki/Assis_(S%C3%A3o_Paulo);-22.661944, -50.411944;
-3504107;DRS 07 - Campinas;Atibaia;Atibaia;3504107_Atibaia;https://pt.wikipedia.org/wiki/Atibaia;-23.116944, -46.55;
-3504206;DRS 02 - Araçatuba;Auriflama;Auriflama;3504206_Auriflama;https://pt.wikipedia.org/wiki/Auriflama;-20.685833, -50.555;
-3504305;DRS 06 - Bauru;Avai;Avaí;3504305_Avaí;https://pt.wikipedia.org/wiki/Ava%C3%AD_(S%C3%A3o_Paulo);-22.146944, -49.332778;
-3504404;DRS 02 - Araçatuba;Avanhandava;Avanhandava;3504404_Avanhandava;https://pt.wikipedia.org/wiki/Avanhandava;-21.460833, -49.95;
-3504503;DRS 06 - Bauru;Avare;Avaré;3504503_Avaré;https://pt.wikipedia.org/wiki/Avar%C3%A9;-23.098889, -48.925833;
+3500303;DRS 14 - São João da Boa Vista;Aguai;Aguaí;3500303_Aguaí;https://pt.wikipedia.org/wiki/Agua%C3%AD;-22.058889, -46.978889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500303_Aguai.png
+3500402;DRS 14 - São João da Boa Vista;Aguas da Prata;Águas da Prata;3500402_Águas da Prata;https://pt.wikipedia.org/wiki/%C3%81guas_da_Prata;-21.936944, -46.716944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500402_Águas da Prata.jpg
+3500501;DRS 07 - Campinas;Aguas de Lindoia;Águas de Lindóia;3500501_Águas de Lindóia;https://pt.wikipedia.org/wiki/%C3%81guas_de_Lind%C3%B3ia;-22.475833, -46.632778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500501_Águas de Lindóia.jpg
+3500550;DRS 06 - Bauru;Aguas de Santa Barbara;Águas de Santa Bárbara;3500550_Águas de Santa Bárbara;https://pt.wikipedia.org/wiki/%C3%81guas_de_Santa_B%C3%A1rbara;-22.880833, -49.238889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500550_Águas de Santa Bárbara.png
+3500600;DRS 10 - Piracicaba;Aguas de Sao Pedro;Águas de São Pedro;3500600_Águas de São Pedro;https://pt.wikipedia.org/wiki/%C3%81guas_de_S%C3%A3o_Pedro;-22.598889, -47.875833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500600_Águas de São Pedro.png
+3500709;DRS 06 - Bauru;Agudos;Agudos;3500709_Agudos;https://pt.wikipedia.org/wiki/Agudos;-22.468889, -48.987778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500709_Agudos.jpg
+3500758;DRS 16 - Sorocaba;Alambari;Alambari;3500758_Alambari;https://pt.wikipedia.org/wiki/Alambari;-23.550833, -47.898889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500758_Alambari.jpg
+3500808;DRS 11 - Presidente Prudente;Alfredo Marcondes;Alfredo Marcondes;3500808_Alfredo Marcondes;https://pt.wikipedia.org/wiki/Alfredo_Marcondes;-21.955, -51.412778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500808_Alfredo Marcondes.png
+3500907;DRS 05 - Barretos;Altair;Altair;3500907_Altair;https://pt.wikipedia.org/wiki/Altair_(S%C3%A3o_Paulo);-20.523889, -49.058889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3500907_Altair.png
+3501004;DRS 13 - Ribeirão Preto;Altinopolis;Altinópolis;3501004_Altinópolis;https://pt.wikipedia.org/wiki/Altin%C3%B3polis;-21.025833, -47.373889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501004_Altinópolis.jpg
+3501103;DRS 02 - Araçatuba;Alto Alegre;Alto Alegre;3501103_Alto Alegre;https://pt.wikipedia.org/wiki/Alto_Alegre_(S%C3%A3o_Paulo);-21.580833, -50.163889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501103_Alto_Alegre.png
+3501152;DRS 16 - Sorocaba;Aluminio;Alumínio;3501152_Alumínio;https://pt.wikipedia.org/wiki/Alum%C3%ADnio_(S%C3%A3o_Paulo);-23.535, -47.261944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501152_Alumínio.png
+3501202;DRS 15 - São José do Rio Preto;Alvares Florence;Álvares Florence;3501202_Álvares Florence;https://pt.wikipedia.org/wiki/%C3%81lvares_Florence;-20.320833, -49.910833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501202_Álvares_Florence.png
+3501301;DRS 11 - Presidente Prudente;Alvares Machado;Álvares Machado;3501301_Álvares Machado;https://pt.wikipedia.org/wiki/%C3%81lvares_Machado;-22.078889, -51.471944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501301_Álvares Machado.jpg
+3501400;DRS 09 - Marília;Alvaro de Carvalho;Álvaro de Carvalho;3501400_Álvaro de Carvalho;https://pt.wikipedia.org/wiki/%C3%81lvaro_de_Carvalho;-22.088889, -49.718889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501400_Álvaro de Carvalho.png
+3501509;DRS 09 - Marília;Alvinlandia;Alvinlândia;3501509_Alvinlândia;https://pt.wikipedia.org/wiki/Alvinl%C3%A2ndia;-22.443889, -49.762778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501509_Alvinlandia.jpg
+3501608;DRS 07 - Campinas;Americana;Americana;3501608_Americana;https://pt.wikipedia.org/wiki/Americana;-22.738889, -47.330833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501608_Americana.png
+3501707;DRS 03 - Araraquara;Americo Brasiliense;Américo Brasiliense;3501707_Américo Brasiliense;https://pt.wikipedia.org/wiki/Am%C3%A9rico_Brasiliense;-21.723889, -48.101944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501707_Américo Brasiliense.jpg
+3501806;DRS 15 - São José do Rio Preto;Americo de Campos;Américo de Campos;3501806_Américo de Campos;https://pt.wikipedia.org/wiki/Am%C3%A9rico_de_Campos;-20.298889, -49.731944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501806_Américo de Campos.jpg
+3501905;DRS 07 - Campinas;Amparo;Amparo;3501905_Amparo;https://pt.wikipedia.org/wiki/Amparo_(S%C3%A3o_Paulo);-22.700833, -46.763889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3501905_Amparo.jpg
+3502002;DRS 10 - Piracicaba;Analandia;Analândia;3502002_Analândia;https://pt.wikipedia.org/wiki/Anal%C3%A2ndia;-22.125833, -47.662778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502002_Analândia.jpg
+3502101;DRS 02 - Araçatuba;Andradina;Andradina;3502101_Andradina;https://pt.wikipedia.org/wiki/Andradina;-20.895833, -51.378889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502101_Andradina.png
+3502200;DRS 16 - Sorocaba;Angatuba;Angatuba;3502200_Angatuba;https://pt.wikipedia.org/wiki/Angatuba;-23.49, -48.412778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502200_Angatuba.jpg
+3502309;DRS 06 - Bauru;Anhembi;Anhembi;3502309_Anhembi;https://pt.wikipedia.org/wiki/Anhembi;-22.788889, -48.126944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502309_Anhembi.jpg
+3502408;DRS 11 - Presidente Prudente;Anhumas;Anhumas;3502408_Anhumas;https://pt.wikipedia.org/wiki/Anhumas;-22.295, -51.386944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502408_Anhumas.png
+3502507;DRS 17 - Taubaté;Aparecida;Aparecida;3502507_Aparecida;https://pt.wikipedia.org/wiki/Aparecida_(S%C3%A3o_Paulo);-22.846944, -45.23;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502507_Aparecida.png
+3502606;DRS 15 - São José do Rio Preto;Aparecida d'Oeste;Aparecida d'Oeste;3502606_Aparecida d'Oeste;https://pt.wikipedia.org/wiki/Aparecida_d%27Oeste;-20.448889, -50.88;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502606_Aparecida d'Oeste.JPG
+3502705;DRS 16 - Sorocaba;Apiai;Apiaí;3502705_Apiaí;https://pt.wikipedia.org/wiki/Apia%C3%AD;-24.508889, -48.842778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502705_Apiaí.JPG
+3502754;DRS 16 - Sorocaba;Aracariguama;Araçariguama;3502754_Araçariguama;https://pt.wikipedia.org/wiki/Ara%C3%A7ariguama;-23.438889, -47.060833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502754_Araçariguama.JPG
+3502804;DRS 02 - Araçatuba;Aracatuba;Araçatuba;3502804_Araçatuba;https://pt.wikipedia.org/wiki/Ara%C3%A7atuba;-21.208889, -50.432778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502754_Araçariguama.png
+3502903;DRS 16 - Sorocaba;Aracoiaba da Serra;Araçoiaba da Serra;3502903_Araçoiaba da Serra;https://pt.wikipedia.org/wiki/Ara%C3%A7oiaba_da_Serra;-23.505, -47.613889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3502903_Araçoiaba da Serra.JPG
+3503000;DRS 08 - Franca;Aramina;Aramina;3503000_Aramina;https://pt.wikipedia.org/wiki/Aramina;-20.09, -47.785833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503000_Aramina.png
+3503109;DRS 06 - Bauru;Arandu;Arandu;3503109_Arandu;https://pt.wikipedia.org/wiki/Arandu;-23.133889, -49.053889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503109_Arandu.jpg
+3503158;DRS 17 - Taubaté;Arapei;Arapeí;3503158_Arapeí;https://pt.wikipedia.org/wiki/Arape%C3%AD;-22.673889, -44.447778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503158_Arapeí.JPG
+3503208;DRS 03 - Araraquara;Araraquara;Araraquara;3503208_Araraquara;https://pt.wikipedia.org/wiki/Araraquara;-21.793889, -48.175833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503208_Araraquara.png
+3503307;DRS 10 - Piracicaba;Araras;Araras;3503307_Araras;https://pt.wikipedia.org/wiki/Araras_(S%C3%A3o_Paulo);-22.356944, -47.383889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503307_Araras.png
+3503356;DRS 09 - Marília;Arco Iris;Arco-Íris;3503356_Arco-Íris;https://pt.wikipedia.org/wiki/Arco-%C3%8Dris_(S%C3%A3o_Paulo);-21.772778, -50.465;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503356_Arco-Íris.jpg
+3503406;DRS 06 - Bauru;Arealva;Arealva;3503406_Arealva;https://pt.wikipedia.org/wiki/Arealva;-22.028889, -48.910833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503406_Arealva.png
+3503505;DRS 17 - Taubaté;Areias;Areias;3503505_Areias;https://pt.wikipedia.org/wiki/Areias_(S%C3%A3o_Paulo);-22.58, -44.696944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503505_Areias.JPG
+3503604;DRS 06 - Bauru;Areiopolis;Areiópolis;3503604_Areiópolis;https://pt.wikipedia.org/wiki/Arei%C3%B3polis;-22.667778, -48.665;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503604_Areiópolis.png
+3503703;DRS 15 - São José do Rio Preto;Ariranha;Ariranha;3503703_Ariranha;https://pt.wikipedia.org/wiki/Ariranha_(S%C3%A3o_Paulo);-21.187778, -48.786944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503703_Ariranha.jpg
+3503802;DRS 07 - Campinas;Artur Nogueira;Artur Nogueira;3503802_Artur Nogueira;https://pt.wikipedia.org/wiki/Artur_Nogueira;-22.572778, -47.172778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503802_Artur Nogueira.jpg
+3503901;DRS 01 - Grande São Paulo;Aruja;Arujá;3503901_Arujá;https://pt.wikipedia.org/wiki/Aruj%C3%A1;-23.395833, -46.320833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503901_Arujá.gif
+3503950;DRS 15 - São José do Rio Preto;Aspasia;Aspásia;3503950_Aspásia;https://pt.wikipedia.org/wiki/Asp%C3%A1sia_(S%C3%A3o_Paulo);-20.158889, -50.732778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3503950_Aspásia.png
+3504008;DRS 09 - Marília;Assis;Assis;3504008_Assis;https://pt.wikipedia.org/wiki/Assis_(S%C3%A3o_Paulo);-22.661944, -50.411944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3504008_Assis.jpg
+3504107;DRS 07 - Campinas;Atibaia;Atibaia;3504107_Atibaia;https://pt.wikipedia.org/wiki/Atibaia;-23.116944, -46.55;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3504107_Atibaia.jpg
+3504206;DRS 02 - Araçatuba;Auriflama;Auriflama;3504206_Auriflama;https://pt.wikipedia.org/wiki/Auriflama;-20.685833, -50.555;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3504206_Auriflama.png
+3504305;DRS 06 - Bauru;Avai;Avaí;3504305_Avaí;https://pt.wikipedia.org/wiki/Ava%C3%AD_(S%C3%A3o_Paulo);-22.146944, -49.332778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3504305_Avaí.png
+3504404;DRS 02 - Araçatuba;Avanhandava;Avanhandava;3504404_Avanhandava;https://pt.wikipedia.org/wiki/Avanhandava;-21.460833, -49.95;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3504404_Avanhandava.jpg
+3504503;DRS 06 - Bauru;Avare;Avaré;3504503_Avaré;https://pt.wikipedia.org/wiki/Avar%C3%A9;-23.098889, -48.925833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3504503_Avaré.jpg
 3504602;DRS 15 - São José do Rio Preto;Bady Bassitt;Bady Bassitt;3504602_Bady Bassitt;;;
 3504701;DRS 06 - Bauru;Balbinos;Balbinos;3504701_Balbinos;;;
 3504800;DRS 15 - São José do Rio Preto;Balsamo;Bálsamo;3504800_Bálsamo;;;

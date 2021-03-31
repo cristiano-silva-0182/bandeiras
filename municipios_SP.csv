@@ -135,22 +135,22 @@
 3557204;DRS 09 - Marília;Chavantes;Chavantes;3557204_Chavantes;https://pt.wikipedia.org/wiki/Chavantes;-23.038889, -49.708889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3557204_Chavantes.png;https://www.chavantes.sp.gov.br/
 3511904;DRS 02 - Araçatuba;Clementina;Clementina;3511904_Clementina;https://pt.wikipedia.org/wiki/Clementina_(S%C3%A3o_Paulo);-21.56, -50.448889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3511904_Clementina.jpg;https://www.clementina.sp.gov.br/
 3512001;DRS 05 - Barretos;Colina;Colina;3512001_Colina;https://pt.wikipedia.org/wiki/Colina_(S%C3%A3o_Paulo);-20.712778, -48.540833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512001_Colina.png;https://www.colina.sp.gov.br/
-3512100;DRS 05 - Barretos;Colombia;Colômbia;3512100_Colômbia;;;;
-3512209;DRS 10 - Piracicaba;Conchal;Conchal;3512209_Conchal;;;;
-3512308;DRS 06 - Bauru;Conchas;Conchas;3512308_Conchas;;;;
-3512407;DRS 10 - Piracicaba;Cordeiropolis;Cordeirópolis;3512407_Cordeirópolis;;;;
-3512506;DRS 02 - Araçatuba;Coroados;Coroados;3512506_Coroados;;;;
-3512605;DRS 06 - Bauru;Coronel Macedo;Coronel Macedo;3512605_Coronel Macedo;;;;
-3512704;DRS 10 - Piracicaba;Corumbatai;Corumbataí;3512704_Corumbataí;;;;
-3512803;DRS 07 - Campinas;Cosmopolis;Cosmópolis;3512803_Cosmópolis;;;;
-3512902;DRS 15 - São José do Rio Preto;Cosmorama;Cosmorama;3512902_Cosmorama;;;;
-3513009;DRS 01 - Grande São Paulo;Cotia;Cotia;3513009_Cotia;;;;
-3513108;DRS 13 - Ribeirão Preto;Cravinhos;Cravinhos;3513108_Cravinhos;;;;
-3513207;DRS 08 - Franca;Cristais Paulista;Cristais Paulista;3513207_Cristais Paulista;;;;
-3513306;DRS 09 - Marília;Cruzalia;Cruzália;3513306_Cruzália;;;;
-3513405;DRS 17 - Taubaté;Cruzeiro;Cruzeiro;3513405_Cruzeiro;;;;
-3513504;DRS 04 - Baixada Santista;Cubatao;Cubatão;3513504_Cubatão;;;;
-3513603;DRS 17 - Taubaté;Cunha;Cunha;3513603_Cunha;;;;
+3512100;DRS 05 - Barretos;Colombia;Colômbia;3512100_Colômbia;https://pt.wikipedia.org/wiki/Col%C3%B4mbia_(S%C3%A3o_Paulo);-20.175833, -48.688889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512100_Colômbia.png;http://www.colombia.sp.gov.br/
+3512209;DRS 10 - Piracicaba;Conchal;Conchal;3512209_Conchal;https://pt.wikipedia.org/wiki/Conchal;-22.33, -47.172778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512209_Conchal.png;http://www.conchal.sp.gov.br/
+3512308;DRS 06 - Bauru;Conchas;Conchas;3512308_Conchas;https://pt.wikipedia.org/wiki/Conchas;-23.015, -48.010833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512308_Conchas.png;https://www.conchas.sp.gov.br/
+3512407;DRS 10 - Piracicaba;Cordeiropolis;Cordeirópolis;3512407_Cordeirópolis;https://pt.wikipedia.org/wiki/Cordeir%C3%B3polis;-22.481944, -47.456944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512407_Cordeirópolis.jpg;http://www.cordeiropolis.sp.gov.br
+3512506;DRS 02 - Araçatuba;Coroados;Coroados;3512506_Coroados;https://pt.wikipedia.org/wiki/Coroados_(S%C3%A3o_Paulo);-21.351944, -50.280833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512506_Coroados.png;https://www.coroados.sp.gov.br/
+3512605;DRS 06 - Bauru;Coronel Macedo;Coronel Macedo;3512605_Coronel Macedo;https://pt.wikipedia.org/wiki/Coronel_Macedo;-23.630833, -49.313889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512605_Coronel Macedo.png;https://www.coronelmacedo.sp.gov.br/
+3512704;DRS 10 - Piracicaba;Corumbatai;Corumbataí;3512704_Corumbataí;https://pt.wikipedia.org/wiki/Corumbata%C3%AD;-22.22, -47.625833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512704_Corumbataí.png;http://www.corumbatai.sp.gov.br/
+3512803;DRS 07 - Campinas;Cosmopolis;Cosmópolis;3512803_Cosmópolis;https://pt.wikipedia.org/wiki/Cosm%C3%B3polis;-22.645833, -47.195833;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512803_Cosmópolis.jpg;http://cosmopolis.sp.gov.br/
+3512902;DRS 15 - São José do Rio Preto;Cosmorama;Cosmorama;3512902_Cosmorama;https://pt.wikipedia.org/wiki/Cosmorama;-20.477778, -49.777778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3512902_Cosmorama.png;http://cosmorama.sp.gov.br/index.jsf
+3513009;DRS 01 - Grande São Paulo;Cotia;Cotia;3513009_Cotia;https://pt.wikipedia.org/wiki/Cotia;-23.603889, -46.918889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3513009_Cotia.png;https://www.cotia.sp.gov.br/
+3513108;DRS 13 - Ribeirão Preto;Cravinhos;Cravinhos;3513108_Cravinhos;https://pt.wikipedia.org/wiki/Cravinhos;-21.34, -47.728889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3513108_Cravinhos.png;http://www.cravinhos.sp.gov.br
+3513207;DRS 08 - Franca;Cristais Paulista;Cristais Paulista;3513207_Cristais Paulista;https://pt.wikipedia.org/wiki/Cristais_Paulista;-20.396944, -47.42;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3513207_Cristais Paulista.png;http://www.cristaispaulista.sp.gov.br/
+3513306;DRS 09 - Marília;Cruzalia;Cruzália;3513306_Cruzália;https://pt.wikipedia.org/wiki/Cruz%C3%A1lia;-22.676944, -50.793889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3513306_Cruzália.jpg;https://www.cruzalia.sp.gov.br/
+3513405;DRS 17 - Taubaté;Cruzeiro;Cruzeiro;3513405_Cruzeiro;https://pt.wikipedia.org/wiki/Cruzeiro_(S%C3%A3o_Paulo);-22.575833, -44.962778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3513405_Cruzeiro.png;http://cruzeiro.sp.gov.br/
+3513504;DRS 04 - Baixada Santista;Cubatao;Cubatão;3513504_Cubatão;https://pt.wikipedia.org/wiki/Cubat%C3%A3o;-23.895, -46.425;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3513504_Cubatão.png;http://www.cubatao.sp.gov.br/
+3513603;DRS 17 - Taubaté;Cunha;Cunha;3513603_Cunha;https://pt.wikipedia.org/wiki/Cunha_(S%C3%A3o_Paulo);-23.074722, -44.959722;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3513603_Cunha.png;http://www.cunha.sp.gov.br/
 3513702;DRS 03 - Araraquara;Descalvado;Descalvado;3513702_Descalvado;;;;
 3513801;DRS 01 - Grande São Paulo;Diadema;Diadema;3513801_Diadema;;;;
 3513850;DRS 15 - São José do Rio Preto;Dirce Reis;Dirce Reis;3513850_Dirce Reis;;;;

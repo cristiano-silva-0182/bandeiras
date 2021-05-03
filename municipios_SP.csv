@@ -213,7 +213,7 @@
 3518503;DRS 16 - Sorocaba;Guarei;Guareí;3518503_Guareí;;;;
 3518602;DRS 13 - Ribeirão Preto;Guariba;Guariba;3518602_Guariba;;;;
 3518701;DRS 04 - Baixada Santista;Guaruja;Guarujá;3518701_Guarujá;;;;
-3518800;DRS 01 - Grande São Paulo;Guarulhos;Guarulhos;3518800_Guarulhos;;;;
+3518800;DRS 01 - Grande São Paulo;Guarulhos;Guarulhos;3518800_Guarulhos;https://pt.wikipedia.org/wiki/Guarulhos;-23.462778, -46.532778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3518800_Guarulhos.png;https://www.guarulhos.sp.gov.br/cidade
 3518859;DRS 13 - Ribeirão Preto;Guatapara;Guatapará;3518859_Guatapará;;;;
 3518909;DRS 02 - Araçatuba;Guzolandia;Guzolândia;3518909_Guzolândia;;;;
 3519006;DRS 09 - Marília;Herculandia;Herculândia;3519006_Herculândia;;;;
@@ -294,7 +294,7 @@
 3525706;DRS 15 - São José do Rio Preto;Jose Bonifacio;José Bonifácio;3525706_José Bonifácio;;;;
 3525805;DRS 09 - Marília;Julio Mesquita;Júlio Mesquita;3525805_Júlio Mesquita;;;;
 3525854;DRS 16 - Sorocaba;Jumirim;Jumirim;3525854_Jumirim;;;;
-3525904;DRS 07 - Campinas;Jundiai;Jundiaí;3525904_Jundiaí;;;;
+3525904;DRS 07 - Campinas;Jundiai;Jundiaí;3525904_Jundiaí;https://pt.wikipedia.org/wiki/Jundia%C3%AD;-23.185833, -46.883889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3525904_Jundiaí.png;https://jundiai.sp.gov.br/
 3526001;DRS 11 - Presidente Prudente;Junqueiropolis;Junqueirópolis;3526001_Junqueirópolis;;;;
 3526100;DRS 12 - Registro;Juquia;Juquiá;3526100_Juquiá;;;;
 3526209;DRS 01 - Grande São Paulo;Juquitiba;Juquitiba;3526209_Juquitiba;;;;
@@ -344,7 +344,7 @@
 3530300;DRS 15 - São José do Rio Preto;Mirassol;Mirassol;3530300_Mirassol;;;;
 3530409;DRS 15 - São José do Rio Preto;Mirassolandia;Mirassolândia;3530409_Mirassolândia;;;;
 3530508;DRS 14 - São João da Boa Vista;Mococa;Mococa;3530508_Mococa;;;;
-3530607;DRS 01 - Grande São Paulo;Mogi das Cruzes;Mogi das Cruzes;3530607_Mogi das Cruzes;;;;
+3530607;DRS 01 - Grande São Paulo;Mogi das Cruzes;Mogi das Cruzes;3530607_Mogi das Cruzes;https://pt.wikipedia.org/wiki/Mogi_das_Cruzes;-23.522778, -46.187778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3530607_Mogi das Cruzes.png;https://www.mogidascruzes.sp.gov.br/
 3530706;DRS 14 - São João da Boa Vista;Mogi Guacu;Mogi Guaçu;3530706_Mogi Guaçu;;;;
 3530805;DRS 14 - São João da Boa Vista;Mogi Mirim;Mogi Mirim;3530805_Mogi Mirim;;;;
 3530904;DRS 10 - Piracicaba;Mombuca;Mombuca;3530904_Mombuca;;;;
@@ -434,7 +434,7 @@
 3538303;DRS 11 - Presidente Prudente;Piquerobi;Piquerobi;3538303_Piquerobi;;;;
 3538501;DRS 17 - Taubaté;Piquete;Piquete;3538501_Piquete;;;;
 3538600;DRS 07 - Campinas;Piracaia;Piracaia;3538600_Piracaia;;;;
-3538709;DRS 10 - Piracicaba;Piracicaba;Piracicaba;3538709_Piracicaba;;;;
+3538709;DRS 10 - Piracicaba;Piracicaba;Piracicaba;3538709_Piracicaba;https://pt.wikipedia.org/wiki/Piracicaba;-22.725, -47.648889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3538709_Piracicaba.png;http://www.piracicaba.sp.gov.br/
 3538808;DRS 06 - Bauru;Piraju;Piraju;3538808_Piraju;;;;
 3538907;DRS 06 - Bauru;Pirajui;Pirajuí;3538907_Pirajuí;;;;
 3539004;DRS 15 - São José do Rio Preto;Pirangi;Pirangi;3539004_Pirangi;;;;
@@ -488,7 +488,7 @@
 3543238;DRS 11 - Presidente Prudente;Ribeirao dos Indios;Ribeirão dos Índios;3543238_Ribeirão dos Índios;;;;
 3543253;DRS 16 - Sorocaba;Ribeirao Grande;Ribeirão Grande;3543253_Ribeirão Grande;;;;
 3543303;DRS 01 - Grande São Paulo;Ribeirao Pires;Ribeirão Pires;3543303_Ribeirão Pires;;;;
-3543402;DRS 13 - Ribeirão Preto;Ribeirao Preto;Ribeirão Preto;3543402_Ribeirão Preto;;;;
+3543402;DRS 13 - Ribeirão Preto;Ribeirao Preto;Ribeirão Preto;3543402_Ribeirão Preto;https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Preto;-21.177778, -47.81;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3543402_Ribeirão Preto.png;http://www.ribeiraopreto.sp.gov.br/portal/
 3543600;DRS 08 - Franca;Rifaina;Rifaina;3543600_Rifaina;;;;
 3543709;DRS 03 - Araraquara;Rincao;Rincão;3543709_Rincão;;;;
 3543808;DRS 09 - Marília;Rinopolis;Rinópolis;3543808_Rinópolis;;;;
@@ -535,7 +535,7 @@
 3547205;DRS 15 - São José do Rio Preto;Santana da Ponte Pensa;Santana da Ponte Pensa;3547205_Santana da Ponte Pensa;;;;
 3547304;DRS 01 - Grande São Paulo;Santana de Parnaiba;Santana de Parnaíba;3547304_Santana de Parnaíba;;;;
 3547700;DRS 11 - Presidente Prudente;Santo Anastacio;Santo Anastácio;3547700_Santo Anastácio;;;;
-3547809;DRS 01 - Grande São Paulo;Santo Andre;Santo André;3547809_Santo André;;;;
+3547809;DRS 01 - Grande São Paulo;Santo Andre;Santo André;3547809_Santo André;https://pt.wikipedia.org/wiki/Santo_Andr%C3%A9_(S%C3%A3o_Paulo);-23.663889, -46.537778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3547809_Santo André.png;https://www2.santoandre.sp.gov.br/
 3547908;DRS 13 - Ribeirão Preto;Santo Antonio da Alegria;Santo Antônio da Alegria;3547908_Santo Antônio da Alegria;;;;
 3548005;DRS 07 - Campinas;Santo Antonio de Posse;Santo Antônio de Posse;3548005_Santo Antônio de Posse;;;;
 3548054;DRS 02 - Araçatuba;Santo Antonio do Aracangua;Santo Antônio do Aracanguá;3548054_Santo Antônio do Aracanguá;;;;
@@ -545,7 +545,7 @@
 3548401;DRS 02 - Araçatuba;Santopolis do Aguapei;Santópolis do Aguapeí;3548401_Santópolis do Aguapeí;;;;
 3548500;DRS 04 - Baixada Santista;Santos;Santos;3548500_Santos;https://pt.wikipedia.org/wiki/Santos;-23.936989, -46.325094;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3548500_Santos.png;https://www.santos.sp.gov.br/
 3548609;DRS 17 - Taubaté;Sao Bento do Sapucai;São Bento do Sapucaí;3548609_São Bento do Sapucaí;;;;
-3548708;DRS 01 - Grande São Paulo;Sao Bernardo do Campo;São Bernardo do Campo;3548708_São Bernardo do Campo;;;;
+3548708;DRS 01 - Grande São Paulo;Sao Bernardo do Campo;São Bernardo do Campo;3548708_São Bernardo do Campo;https://pt.wikipedia.org/wiki/S%C3%A3o_Bernardo_do_Campo;-23.693889, -46.565;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3548708_São Bernardo do Campo.png;https://www.saobernardo.sp.gov.br/
 3548807;DRS 01 - Grande São Paulo;Sao Caetano do Sul;São Caetano do Sul;3548807_São Caetano do Sul;;;;
 3548906;DRS 03 - Araraquara;Sao Carlos;São Carlos;3548906_São Carlos;;;;
 3549003;DRS 15 - São José do Rio Preto;Sao Francisco;São Francisco;3549003_São Francisco;;;;
@@ -557,13 +557,13 @@
 3549508;DRS 08 - Franca;Sao Jose da Bela Vista;São José da Bela Vista;3549508_São José da Bela Vista;;;;
 3549607;DRS 17 - Taubaté;Sao Jose do Barreiro;São José do Barreiro;3549607_São José do Barreiro;;;;
 3549706;DRS 14 - São João da Boa Vista;Sao Jose do Rio Pardo;São José do Rio Pardo;3549706_São José do Rio Pardo;;;;
-3549805;DRS 15 - São José do Rio Preto;Sao Jose do Rio Preto;São José do Rio Preto;3549805_São José do Rio Preto;;;;
-3549904;DRS 17 - Taubaté;Sao Jose dos Campos;São José dos Campos;3549904_São José dos Campos;;;;
+3549805;DRS 15 - São José do Rio Preto;Sao Jose do Rio Preto;São José do Rio Preto;3549805_São José do Rio Preto;https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Rio_Preto;-20.82, -49.378889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3549805_São José do Rio Preto.png;https://www.riopreto.sp.gov.br/
+3549904;DRS 17 - Taubaté;Sao Jose dos Campos;São José dos Campos;3549904_São José dos Campos;https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos;-23.178889, -45.886944;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3549904_São José dos Campos.png;https://www.sjc.sp.gov.br/
 3549953;DRS 01 - Grande São Paulo;Sao Lourenco da Serra;São Lourenço da Serra;3549953_São Lourenço da Serra;;;;
 3550001;DRS 17 - Taubaté;Sao Luiz do Paraitinga;São Luiz do Paraitinga;3550001_São Luiz do Paraitinga;;;;
 3550100;DRS 06 - Bauru;Sao Manuel;São Manuel;3550100_São Manuel;;;;
 3550209;DRS 16 - Sorocaba;Sao Miguel Arcanjo;São Miguel Arcanjo;3550209_São Miguel Arcanjo;;;;
-3550308;DRS 01 - Grande São Paulo;Sao Paulo;São Paulo;3550308_São Paulo;;;;
+3550308;DRS 01 - Grande São Paulo;Sao Paulo;São Paulo;3550308_São Paulo;https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo;-23.550278, -46.633889;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3550308_São Paulo.png;http://www.capital.sp.gov.br/
 3550407;DRS 10 - Piracicaba;Sao Pedro;São Pedro;3550407_São Pedro;;;;
 3550506;DRS 09 - Marília;Sao Pedro do Turvo;São Pedro do Turvo;3550506_São Pedro do Turvo;;;;
 3550605;DRS 16 - Sorocaba;Sao Roque;São Roque;3550605_São Roque;;;;
@@ -582,7 +582,7 @@
 3551900;DRS 05 - Barretos;Severinia;Severínia;3551900_Severínia;;;;
 3552007;DRS 17 - Taubaté;Silveiras;Silveiras;3552007_Silveiras;;;;
 3552106;DRS 07 - Campinas;Socorro;Socorro;3552106_Socorro;;;;
-3552205;DRS 16 - Sorocaba;Sorocaba;Sorocaba;3552205_Sorocaba;;;;
+3552205;DRS 16 - Sorocaba;Sorocaba;Sorocaba;3552205_Sorocaba;https://pt.wikipedia.org/wiki/Sorocaba;-23.501944, -47.457778;https://raw.githubusercontent.com/cristiano-silva-0182/bandeiras/main/3552205_Sorocaba.png;https://www.sorocaba.sp.gov.br/
 3552304;DRS 02 - Araçatuba;Sud Mennucci;Sud Mennucci;3552304_Sud Mennucci;;;;
 3552403;DRS 07 - Campinas;Sumare;Sumaré;3552403_Sumaré;;;;
 3552551;DRS 02 - Araçatuba;Suzanapolis;Suzanápolis;3552551_Suzanápolis;;;;
